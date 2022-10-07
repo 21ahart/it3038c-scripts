@@ -1,0 +1,1 @@
+console.log(`Process args: ${process.argv}`)
