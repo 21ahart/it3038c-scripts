@@ -1,4 +1,4 @@
-calculatory.py is a program built to compute two numbers
+calculator.py is a program built to compute two numbers
 
 How use
 -You must fromat your expression with spaces between the operator and the two numbers
