@@ -1,4 +1,4 @@
-calculatorV3.py is a program built to compute up to three numbers now including fractions and decimal values.
+calculatorV3.py is a program built to compute up to three numbers now including fractions and decimal values with an error catch system.
 
 How use:
 -Find the file path of this file and execute it within powershell by entering "py (file path)"
